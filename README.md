@@ -8,4 +8,4 @@ In no particular order:
 4. Coding / modeling / data analyis
 5. Teaching / mentoring
 
-All five of these can take on multiuple forms.
+All five of these can take on multiple forms.
